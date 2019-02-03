@@ -1,2 +1,2 @@
 # acme-site
-Adapted from Brad
+Adapted from Brad.
